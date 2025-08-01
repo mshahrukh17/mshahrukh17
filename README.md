@@ -43,7 +43,7 @@
 - 🤝 Looking for guidance in **Dart networking and clean architecture**
 - 💼 Projects on: [LinkedIn](https://www.linkedin.com/in/shahrukh-qureshi-7b7700308/)
 - 💬 Ask me about **Flutter, Firebase, APIs, UI/UX, or app architecture**
-- 📫 Reach me at: **sq976009@gmail.com**
+- 📫 How to reach me: **sq976009@gmail.com**
 
 ---
 
