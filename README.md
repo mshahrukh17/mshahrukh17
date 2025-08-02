@@ -12,6 +12,11 @@
 </p>
 
 <p align="center">
+  <img src="https://github.com/mshahrukh17/mshahrukh17/blob/main/assets/coding.gif.gif?raw=true" width="600px" />
+</p>
+
+
+<p align="center">
   <a href="https://github.com/mshahrukh17">
     <img src="https://img.shields.io/badge/GitHub-Follow-blue?style=for-the-badge&logo=github&labelColor=000000" />
   </a>
