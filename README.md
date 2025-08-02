@@ -8,8 +8,9 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=460&lines=Crafting+Beautiful+Flutter+Apps;Loving+Firebase+and+Clean+Code;Always+Learning+%F0%9F%9A%80" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=42A5F5&center=true&vCenter=true&width=460&lines=Crafting+Beautiful+Flutter+Apps;Loving+Firebase+and+Clean+Code;Always+Learning+%F0%9F%9A%80" alt="Typing animation" />
 </p>
+
 
 <p align="center">
   <img src="https://github.com/mshahrukh17/mshahrukh17/blob/main/assets/coding.gif.gif?raw=true" width="600px" />
